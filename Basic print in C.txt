@@ -1,0 +1,53 @@
+1.
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello World");
+
+    return 0;
+}
+---------------------------------------------------------------------------------------------
+
+2.
+#include <stdio.h>
+
+int main()
+{
+    printf("HIMALAYAN 450\n");
+printf("GSA 1250\n");
+printf("DUCATI\n");
+printf("TIGER 1200\n");
+printf("KAWASAKI\n");
+    return 0;
+}
+----------------------------------------------------------------------------------------------
+
+3.
+#include <stdio.h>
+
+int main()
+{
+    printf("INDIA\n");
+printf("UNITED STATES\n");
+printf("SPAIN\n");
+printf("AFRICA\n");
+printf("CHINA\n");
+    return 0;
+}
+-----------------------------------------------------------------------------------------------
+
+4.
+#include <stdio.h>
+
+int main()
+{
+    printf("soya chaap\n");
+    printf("pizza\n");
+    printf("veg roll\n");
+    printf("sadnwich\n");
+    printf("idli\n");
+
+    return 0;
+}
+------------------------------------------------------------------------------------------------
