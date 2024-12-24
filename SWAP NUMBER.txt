@@ -1,0 +1,76 @@
+SWAP NNUMBER WITH AND WITHOUT 
+
+1.
+#include <stdio.h>
+
+int main()
+{
+    int a= 100;
+    int b= 500;
+    printf("the value of a is : %d\n",a);
+    printf("the value of b is : %d\n",b);
+    a= a+b;
+    b= a-b;
+    a= a-b;
+    printf("the swap value of a is : %d\n",a);
+    printf("the swap value of b is : %d",b);
+
+    return 0;
+}
+-------------------------------------------------------------------------------------------------------------------------
+2.
+#include <stdio.h>
+
+int main()
+{
+    int a= 70;
+    int b= 50;
+    printf("the value of a is : %d\n",a);
+    printf("the value of b is : %d\n",b);
+    a= a+b;
+    b= a-b;
+    a= a-b;
+    printf("the swap value of a is : %d\n",a);
+    printf("the swap value of b is : %d",b);
+
+    return 0;
+}
+-----------------------------------------------------------------------------------------------------------------------------
+3.
+#include <stdio.h>
+
+int main()
+{
+    int a= 70;
+    int b= 50;
+    int c;
+    printf("the value of a is : %d\n",a);
+    printf("the value of b is : %d\n",b);
+    c= a;
+    a= b;
+    b= c;
+    printf("the swap value of a is : %d\n",a);
+    printf("the swap value of b is : %d",b);
+
+    return 0;
+}
+--------------------------------------------------------------------------------------------------------------------------------
+4.
+#include <stdio.h>
+
+int main()
+{
+    int a= 250;
+    int b= 4600;
+    int c;
+    printf("the value of a is : %d\n",a);
+    printf("the value of b is : %d\n",b);
+    c= a;
+    a= b;
+    b= c;
+    printf("the swap value of a is : %d\n",a);
+    printf("the swap value of b is : %d",b);
+
+    return 0;
+}
+--------------------------------------------------------------------------------------------------------------------------------------
